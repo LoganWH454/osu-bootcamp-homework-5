@@ -52,4 +52,4 @@ I was able to gain a better understanding of Bootstrap while doing this project.
 
 ## Link to Deployed Application
 
-[Link to deployed application](https://www.example.com)
+[Link to deployed application](https://loganwh454.github.io/osu-bootcamp-homework-5/)
